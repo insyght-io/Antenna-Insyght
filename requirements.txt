@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+scikit-optimize
+necpp
+ezdxf
+reportlab
+PySide6
+
+# Optional: openEMS + CSXCAD (full-wave FDTD simulation)
+# These are not pip-installable and require system-level installation.
+# See: https://docs.openems.de/install.html
+# CSXCAD
+# openEMS
